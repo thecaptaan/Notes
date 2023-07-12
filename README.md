@@ -2,8 +2,8 @@
 
 ## Table Of Contents
 
-- [NPM](Node.md)
-- [DoxyGen](Doxygen.md)
+- [NPM](/src/Node.md)
+- [DoxyGen](/src/Doxygen.md)
 - [Bash Scripting]()
 
 ### Important Note
